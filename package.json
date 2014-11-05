@@ -32,9 +32,8 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/webpack/webpack-dev-server.git"
+		"url": "https://github.com/tdeekens/webpack-dev-server.git"
 	},
-	"homepage": "http://github.com/webpack/webpack-dev-server",
 	"main": "lib/Server.js",
 	"bin": "bin/webpack-dev-server.js",
 	"scripts": {
